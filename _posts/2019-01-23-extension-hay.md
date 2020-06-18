@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Chia sẻ 1 số extension hữu ích mà mình đang dùng"
-categories: 
-  - extensions
-  - chrome
+categories: [Extension, Browser, Chrome]
+tags: [chrome, extension, browser]
 img: My Extension_last.jpg
 ---
 

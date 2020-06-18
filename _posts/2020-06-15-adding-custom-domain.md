@@ -1,14 +1,8 @@
 ---
 layout: post
 title:  "Sử dụng tên miền tuỳ chỉnh cho blog Jekyll"
-categories: 
-  - jekyll
-  - blog
-tags:
-  - jekyll
-  - domain
-  - blog
-  - haha
+categories: [Jekyll, Blog]
+tags: [jekyll, domain, blog]
 img: Adding Custom Domain.png
 ---
 

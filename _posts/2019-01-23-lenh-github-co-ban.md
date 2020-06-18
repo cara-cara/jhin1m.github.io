@@ -1,11 +1,8 @@
 ---
 layout: post
 title:  "Những lệnh Git cơ bản cần nhớ"
-categories: 
-  - Git
-tags:
-  -git
-  -command
+categories: [Git, Github]
+tags: [git, github, command]
 img: BASIC_last.jpg
 ---
 Trong bài viết này sẽ có một vài lệnh git hữu ích mà đa phần bạn sẽ phải dùng tới.

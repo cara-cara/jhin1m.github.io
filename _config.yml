@@ -16,7 +16,7 @@ description: >-                        # used by seo meta and the atom feed
   Web developer
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: '/'
+url: 'jhin1m.github.io'
 
 author: jhin1m                 # change to your full name
 
@@ -76,7 +76,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: dual
 
 # boolean type, global switch for ToC in posts.
 toc: true

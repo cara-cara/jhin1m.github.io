@@ -1,12 +1,8 @@
 ---
 layout: post
 title:  "Cách Tạo 1 Blog Nhỏ Với Jekyll"
-categories: 
-  - Jekyll
-  - Blog
-tags:
-  - jekyll
-  - blog
+categories: [Jekyll, Blog]
+tags: [jekyll, blog]
 img: Create-blog_last.jpg
 ---
 
@@ -92,7 +88,7 @@ Sửa file trực tiếp ngay trên Github khá bất tiện, ở đây mình kh
 -   Ở mỗi bài viết sẽ phải có phần khai báo quan trọng gọi là Front Matter, là 1 khối chứa các thông tin, giá trị quan trọng, được viết giữa 2 dòng chứa 3 dấu gạch nối.
 -   Ví dụ:
 
-```
+```yml
 ---
 layout: post
 title: Cách Tạo 1 Blog Nhỏ Với Jekyll
