@@ -1,5 +1,5 @@
 ---
-title: Archives
+title: Lưu trữ
 
 # The Archives of posts.
 # v2.0

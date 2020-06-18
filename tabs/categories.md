@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Chuyên mục
 
 # All the Categories of posts
 # v2.0
