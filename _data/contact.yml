@@ -6,10 +6,10 @@
 
 -
   type: github
-  icon: 'fab fa-github-alt'
+  icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  icon: 'fab fa-facebook-square'
+  url: 'https://facebook.com/jhin1m'
 -
   type: email
   icon: 'fas fa-envelope'
