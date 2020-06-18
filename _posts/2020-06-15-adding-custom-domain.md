@@ -7,6 +7,8 @@ categories:
 tags:
   - jekyll
   - domain
+  - blog
+  - haha
 img: Adding Custom Domain.png
 ---
 
