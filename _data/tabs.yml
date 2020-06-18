@@ -6,25 +6,25 @@
 
 
 -
-  name: Home
+  name: Trang chủ
   icon: "fas fa-home"
 -
-  name: Categories
+  name: Chuyên mục
   icon: "fas fa-stream"
   path: tabs
   url: categories
 -
-  name: "Tags"
+  name: "Thẻ"
   icon: "fas fa-tags"
   path: tabs
   url: tags
 -
-  name: "Archives"
+  name: "Lưu trữ"
   path: tabs
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About"
+  name: "Giới thiệu"
   icon: "fas fa-info"
   path: tabs
   url: about

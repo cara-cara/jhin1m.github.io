@@ -6,14 +6,14 @@
 
 
 panel:
-  lastmod: "Recent Update"
-  trending_tags: "Trending Tags"
-  toc: "Contents"
+  lastmod: "Mới cập nhật"
+  trending_tags: "Tags phổ biến"
+  toc: "Nội dung"
 
 post:
-  relate_posts: "Further Reading"
+  relate_posts: "Đọc thêm"
   button:
-    next: Newer
-    previous: Older
+    next: Mới hơn
+    previous: Cũ hơn
 
-search_hint: "Search"   # text show on search bar
+search_hint: "Tìm kiếm..."   # text show on search bar
