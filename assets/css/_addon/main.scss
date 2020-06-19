@@ -80,8 +80,29 @@ $sidebar-display: "sidebar-display";
   background: var(--sidebar-bg);
   a {
     @include sidebar-links;
+    @keyframes text-glitch {
+      0% {
+          text-shadow: none
+      }
+  
+      25% {
+          text-shadow: -1.5px -1.5px 0 #F43482,1.5px 1.5px 0 #3234FF
+      }
+  
+      50% {
+          text-shadow: 1.5px -1.5px 0 #F43482,-1.5px 1.5px 0 #3234FF
+      }
+  
+      75% {
+          text-shadow: -1.5px 1.5px 0 #F43482,1.5px -1.5px 0 #3234FF
+      }
+ 
+      100% {
+          text-shadow: 1.5px 1.5px 0 #F43482,-1.5px -1.5px 0 #3234FF
+      }
   }
-
+  }
+  
   .site-title {
     text-align: center;
     a {
@@ -92,6 +113,7 @@ $sidebar-display: "sidebar-display";
       &:hover {
         color: #fff;
         text-decoration: none;
+        animation: text-glitch .75s cubic-bezier(.25,.46,.45,.94) both infinite;
       }
     }
   }
@@ -121,6 +143,7 @@ $sidebar-display: "sidebar-display";
     &:hover {
       .nav-link {
         color: #f8f9facf;
+        animation: text-glitch .75s cubic-bezier(.25,.46,.45,.94) both infinite;
       }
     }
     &.active {
@@ -1390,6 +1413,7 @@ table {
     width: $sidebar-width-large;
 
     .site-title a {
+      
       font-size: 1.7rem;
       letter-spacing: 1px;
       margin: 0;
